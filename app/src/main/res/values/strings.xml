@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AlarmMangerWithAllowWhileIdle</string>
+    <string name="create_alarm">Create Alarm</string>
+    <string name="description_alarm">By clicking on Create Alarm button, five different alarms will create just after 5 min, 10 min, 15 min ,20 min and 25 min from button clicked time.</string>
+</resources>
